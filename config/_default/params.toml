@@ -12,10 +12,10 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Personal page of Jan Zdenek"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "profilepic.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -50,24 +50,27 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "jan@nlab.ci.i.u-tokyo.ac.jp"
+phone = ""
+address = "4F, I-REF, Graduate School of Information Science and Technology, the University of Tokyo, 1-1-1 Yayoi, Bunkyo, Tokyo, 113-0032, Japan"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/jan_zde"},
+  {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/kurapan"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/jan-zdeněk-3907b74a"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.co.jp/citations?user=qylVL6wAAAAJ"},
+  {icon = "researchgate", icon_pack = "ai", name = "Research Gate", link = "https://www.researchgate.net/profile/Jan_Zdenek"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -86,11 +89,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+map = 1
+map_api_key = "AIzaSyBsmuoZGoNQnv1sq1E8TWJf09AOza2aKGk"
+latitude = "35.715826"
+longitude = "139.761044"
+zoom = 12
 
 ############################
 ## Plugins                ##
@@ -142,7 +145,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 # Search.
