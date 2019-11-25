@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Script Identification Using Bag-of-Words with Entropy-weighted Patches"
+title: "Erasing Scene Text With Weak Supervision"
 authors: ["Jan Zdenek", "Hideki Nakayama"]
-date: 2017-05-24
+date: 2019-11-25T15:00:24+09:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-06-08T19:23:23+09:00
+publishDate: 2019-11-25T15:00:24+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = peer-reviewed; 10 = without peer review
-publication_types: [1, 10]
+# 7 = Thesis; 8 = Patent
+publication_types: [1, 9]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Japanese Society for Artificial Intelligence Annual Conference (JSAI 2017)*."
-publication_short: "*JSAI 2017*"
+publication: "*Proceedings of the 2020 IEEE Winter Conference on Applications of Computer Vision (WACV 2020)*"
+publication_short: "*WACV 2020*"
 
-abstract: "The increasing interest in scene text reading in multilingual environments raises the need to recognize and distinguish between different writing systems. In this paper, we propose a novel method for script identification using convolutional features for the traditional bag-of-words model in a combination with weighting by means of intra-cluster information entropy. This approach exploits the expressive representation of convolutional neural networks, which have displayed outstanding performance in many text analysis and recognition tasks in recent years, discriminative power of script-characteristic features, and generalization abilities of bag-of-words model. The proposed method is evaluated on two public benchmark datasets for script identification. The experiments demonstrate that our method outperforms the baseline and yields competitive results."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://kaigi.org/jsai/webprogram/2017/pdf/1113.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

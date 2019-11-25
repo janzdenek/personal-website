@@ -16,8 +16,8 @@ publishDate: 2019-06-08T19:23:48+09:00
 publication_types: [1, 10]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *The 22nd Meeting on Image Recognition and Understanding*."
-publication_short: "In *MIRU*"
+publication: "*The 22nd Meeting on Image Recognition and Understanding (MIRU 2019)*."
+publication_short: "*MIRU 2019*"
 
 abstract: "Scene text erasing is a task of removing text from natural scene images, which has been gaining attention in recent years. The main motivation is to conceal private information such as license plate numbers, and house name plates that can appear in images. In this work, we propose a novel method for scene text erasing that approaches the problem as a general inpainting task. Unlike previous methods, which require pairs of original images containing text and images with the text removed, our method does not need corresponding image pairs for training. We use a separately trained scene text detector and an inpainting network. The scene text detector predicts segmentation maps of text instances, which are then used as masks for the inpainting network. The network for inpainting, trained on the Places2 dataset of indoors and outdoors scenes, fills in masked out regions in an input image and generates a final image with erased text. The results show that our method is able to remove text from images and naturally fill in the background."
 
