@@ -78,6 +78,6 @@ user_groups:
 ---
 
 
-Jan is a second-year Ph.D. student in information science and technology particularly interested in artificial intelligence, computer vision, and machine learning. He is a member of the Machine Perception Group (Nakayama Laboratory) at the University of Tokyo, which he joined in 2014. Before commencing his graduate studies at the University of Tokyo, he earned his bachelor's degree in computer and information science at the Czech Technical University in Prague, Czech Republic, where he was born and grew up.
+Jan is a third-year Ph.D. student in information science and technology particularly interested in artificial intelligence, computer vision, and machine learning. He is a member of the Machine Perception Group (Nakayama Laboratory) at the University of Tokyo, which he joined in 2015. Before commencing his graduate studies at the University of Tokyo, he earned his bachelor's degree in computer and information science at the Czech Technical University in Prague, Czech Republic, where he was born and grew up.
 
-His research focuses on computer vision, in particular on understanding and processing of text in natural scene images. Recently, he has been interested in image generation using generative adversarial networks.
+His research focuses on computer vision, in particular on image generation and text in natural scene images. Recently, he has been interested in application of generative adversarial networks for handwritten text and text in natural scene images.

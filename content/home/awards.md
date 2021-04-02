@@ -15,5 +15,7 @@ weight = 70
 
 +++
 
+- MIRU 2020 Student Paper Award (Hataya R., Zdenek J., Yoshizoe K., Nakayama H.)
 - The Japanese Society for Artificial Intelligence (JSAI) Annual Conference Student Incentive Award 2017
 - Japanese Government (MEXT) Scholarship for Research Students
+- Dean's Award for an Outstanding Bachelor Thesis, Czech Technical University, 2014
